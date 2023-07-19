@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet"href="code.css"
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <div id="grad">
+
+<h1 align="center"style="color:red">School Website</h1>
+<h1><center><a href="school.html">Jain International School in Katol Road Nagpur </a></center></h1>
+<h2 align="center"> Address: The Jain International School, 
+    Near S.B. Jain Institute of Technology, Management & Research, Yerla Village, 
+    Katol Road, Nagpur, </h2>
+    </div>
+ </body>   
+</html>
+DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+  
+    <center><h1 style="color:yellow">THE JAIN INTERNATIONAL SCHOOL</h1></center>
+    <center><h1><a href="about.html">About</a>  <a href="Parent corner.html">Parent corner</a> 
+        <a href="Badjate group.html">Badjate group</a></h1>
+        
+
+    <center><img src="school1.jpg"alt=""height="400"width"400"></center>
+    <center><h2>JAIN INTERNATIONAL SCHOOL is one of the best-equipped schools in India with facilities 
+    that support excellence in all areas. The infrastructure has been suitably planned to 
+    accommodate learning and all round development of the child. JIS is perceived as 
+    a school apart; for it has a fine blend of academics, sports and culture. 
+    Jain International School provides the best possible education to its students. 
+    The main objective is to ensure that the youthful energies 
+    of all students are channelized towards holistic development.</center></h2>
+    <center><img src="school2.jpg"akt=""height="400" width="400"></center>
+    <h1 align="center"style="color:red">Special Attention for Every Child</h1>
+        <center><h2>To us, every child is a flower ready to bloom. We focus on knowing your child’s interests and 
+        potential strengths to develop him or her into a well-rounded individual. Paying mindful attention 
+        to every child is our strength; as we know, how important it is for 
+        them to feel valued and appreciated.We specialize in playing special attention to every
+        child and develop their individual talents while working on their education.</center></h2>
+      <center><h1 style="color:blue">RECENT EVENT</h1></center>
+      <img src="school3.jpg"alt=""height="400"width"400">
+      <img src="school4.jpg"alt=""height="400"width"400">
+      <img src="school5.jpg"alt=""height="400"width"400">
+      <center><h2>Jain International School celebrated its Biennial Junior Concert, Amour- 
+        The Spirit of Love,in the school premises on the 17th December,2022. This year the theme of 
+        the concert was ‘Love Conquers All’. The Chief Guest for the day was Dr. Rozina Rana,
+        a renowned Psychologist and Mrs. Priyanka Thakur, famous theatre personality and actress
+         was the Guest of Honour. </h2></center><br>
+         
+        <center><h2>The Jain International School, marvellously presented its 
+        Biennial Senior Concert “Suryodaya:The Awakening” with a lot of pomp and splendour.
+       The programme commenced with the lighting of The Awakening” with a lot of pomp and splendour.
+        Mrs. Amruta Fadnavis. Mr. Prakash Shesh </h2></center><br>
+        <center><h2>The Students of The Jain International School celebrated  Christmas with great
+        Christmas theme. Students sang lovely carols and danced beautifully to wish their teachers      
+        and classmates happy holidays. The students were told about the birth of Lord Jesus. 
+        The spirit of giving and sharing was inculcated among the tiny tots.</h1></center><br>    
+        <center><h1 style="color:blue">Wall of Achievements</h2></center>
+        <img src="school6.jpg"alt=""height="400">
+        <img src="school7.jpg"alt=""height="400">
+        <img src="school8.jpg"alt=""height="400">
+        <img src="school9.jpg"alt=""height="400">
+        <img src="school10.jpg"alt=""height="400">
+        <img src="school11.jpg"alt=""height="400">
+        
+        <h2>A child can ask questions that a wise man cannot answer.</h2>
+        <center><h1>In Loving Memory Of</h1>
+       <img src="school13.jpg"alt=""height="400">
+       <center><h1>Shri Shantilal Badjate</h1>
+        <center><h1>20.05.1935-09.06.2020</h1>
+            <center><h2>With profound grief, we regret the demise of our beloved Shri.Shantilal Badjate
+          Chairman,Sir Shantilal Badjate Trust,Nagpur.Sir left us for his heavenly abode on Tuesday,9th
+          June,2020. </h2></center><br>
+        <center><h2>Sir Shantilal Badjate founded the Badjate Group,which deals in stocks and  shares,
+            
+          in ,1965.Ever since,the group has been growing and reaching new heights along diversified
+        streams of business,venturing into the field of education in 2006 with the launch of Jain 
+        International School,Nagpur.The S.B.Jain Institute of Technology,Management and
+        Research followed in 2008 and Little Jewels Kindergarten in 2010.
+        </h2></center>
+      </body>
+     <html>
+         
+       
+    
+    
+      
